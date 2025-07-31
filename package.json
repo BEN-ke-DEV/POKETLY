@@ -1,6 +1,21 @@
 {
-	"dependencies": {
-		"tailwindcss": "^4.1.11",
-		"@tailwindcss/vite": "^4.1.11"
-	}
+  "name": "poketly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BEN-ke-DEV/POKETLY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BEN-ke-DEV/POKETLY/issues"
+  },
+  "homepage": "https://github.com/BEN-ke-DEV/POKETLY#readme"
 }
